@@ -1,4 +1,4 @@
-namespace platziweb.Models;
+namespace web.Models;
 
 public class ErrorViewModel
 {
